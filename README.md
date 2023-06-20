@@ -2,7 +2,7 @@
 ## Overview
 The Restaurant Recommendation System is a Python-based project that leverages machine learning techniques and data visualization libraries to offer location-based restaurant recommendations. The project uses the Yelp Academic Dataset, focusing specifically on the business.json file, which contains business data including location data, categories, review counts, and ratings.
  
-`![Recommendation](./recom.png)`
+ <img width="1017" alt="recom" src="https://github.com/catplotlib/REstaurantRecommendation/assets/61319491/3ba05ae9-edc9-49eb-a942-237283a0dfcd">
 
 ## Libraries Used
 - Pandas
